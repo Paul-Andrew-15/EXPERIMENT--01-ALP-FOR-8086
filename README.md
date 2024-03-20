@@ -1,7 +1,7 @@
-![image](https://github.com/Paul-Andrew-15/EXPERIMENT--01-ALP-FOR-8086/assets/94279791/03457c95-2a74-4aec-a3c0-e9ee9dae2e4d)# EXPERIMENT--01-ALP-FOR-8086
-Name : Paul Andrew D
-Roll no : 212221230075
-Date of experiment : 
+# EXPERIMENT--01-ALP-FOR-8086
+### Name : Paul Andrew D
+### Roll no : 212221230075
+### Date of experiment : 
 
 
 
